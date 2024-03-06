@@ -1,0 +1,149 @@
+{
+  "id" : {
+    "nom" : "",
+    "prenom" : "",
+    "classe" : ""
+  },
+  "bulletin" : {
+    "UE1": {
+      "RES" : {
+        "initDev" : {
+          "coef" : 42,
+          "notes" : []
+        },
+        "devWeb" : {
+          "coef" : 12,
+          "notes" : []
+        },
+        "anglais" : {
+          "coef" : 6,
+          "notes" : []
+        }
+      },
+      "SAE" : {
+          "coef" : 40,
+          "notes" : []
+      }
+    },
+    "UE2": {
+      "RES" : {
+        "initDev" : {
+          "coef" : 24,
+          "notes" : []
+        },
+        "archi" : {
+          "coef" : 6,
+          "notes" : []
+        },
+        "mDisc" : {
+          "coef" : 15,
+          "notes" : []
+        },
+        "oFond" : {
+          "coef" : 15,
+          "notes" : []
+        }
+      },
+      "SAE" : {
+        "coef" : 40,
+        "notes" : []
+      }
+    },
+    "UE3": {
+      "RES" : {
+        "archi" : {
+          "coef" : 21,
+          "notes" : []
+        },
+        "sysEx" : {
+          "coef" : 21,
+          "notes" : []
+        },
+        "anglais" : {
+          "coef" : 12,
+          "notes" : []
+        },
+        "com" : {
+          "coef" : 6,
+          "notes" : []
+        }
+      },
+      "SAE" : {
+        "coef" : 40,
+        "notes" : []
+      }
+    },
+    "UE4": {
+      "RES" : {
+        "bdd" : {
+          "coef" : 36,
+          "notes" : []
+        },
+        "mDisc" : {
+          "coef" : 18,
+          "notes" : []
+        },
+        "ecoDur" : {
+          "coef" : 6,
+          "notes" : []
+        }
+      },
+      "SAE" : {
+        "coef" : 40,
+        "notes" : []
+      }
+    },
+    "UE5": {
+      "RES" : {
+        "eco" : {
+          "coef" : 27,
+          "notes" : []
+        },
+        "devWeb" : {
+          "coef" : 18,
+          "notes" : []
+        },
+        "com" : {
+          "coef" : 15,
+          "notes" : []
+        }
+      },
+      "SAE" : {
+        "coef" : 40,
+        "notes" : []
+      }
+    },
+    "UE6": {
+      "RES" : {
+        "devWeb" : {
+          "coef" : 5,
+          "notes" : []
+        },
+        "eco" : {
+          "coef" : 11,
+          "notes" : []
+        },
+        "ecoDur" : {
+          "coef" : 11,
+          "notes" : []
+        },
+        "anglais" : {
+          "coef" : 11,
+          "notes" : []
+        },
+        "com" : {
+          "coef" : 11,
+          "notes" : []
+        },
+        "ppp" : {
+          "coef" : 11,
+          "notes" : []
+        }
+      },
+      "SAE" : {
+        "coef" : 40,
+        "notes" : []
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "learnTS"
+  },
+  "author": "Agatha Basson",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "keywords": [],
+  "description": "",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es5",
+    "noEmitOnError": true,
+    "strict": true
+  },
+  "files": [
+    "src/app.ts"
+  ]
+}
